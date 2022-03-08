@@ -1,0 +1,53 @@
+{
+    "name":"FOS - Date Picker Eraser"
+   ,"version":"21.2.0"
+   ,"description":"Clear\/erase the \"Date Picker\" value. It\u0027s useful for users who want to keep their hand on the mouse\/touchpad, saving that little bit of time and improving their productivity.\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\n\u003Cp\u003E\r\nAll FOS plug-ins are released under MIT License, which essentially means it is free for everyone to use, no matter if commercial or private use. \r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003EThe \u003Cstrong\u003EFOS - Date Picker Eraser\u003C\/strong\u003E can do one thing, and one thing only: it can clear\/erase the \"Date Picker\" value. It\u0027s useful for users who want to keep their hand on the mouse\/touchpad, saving that little bit of time and improving their productivity.\u003C\/p\u003E"
+   ,"keywords":[
+        "date-picker"
+       ,"eraser"
+    ]
+   ,"license":"MIT"
+   ,"commercial":"No"
+   ,"commercially_supported":"Yes"
+   ,"homepage":"https:\/\/github.com\/foex-open-source\/fos-date-picker-eraser"
+   ,"bugs":{
+        "url":"https:\/\/github.com\/foex-open-source\/fos-date-picker-eraser\/issues"
+       ,"email":"support@fos.world"
+    }
+   ,"author":{
+        "name":"FOEX GmbH"
+       ,"email":"office@fos.world"
+       ,"url":"https:\/\/foex.at\/fos\/"
+       ,"twitter":"@foexopensource"
+    }
+   ,"repository":{
+        "type":"git"
+       ,"url":"https:\/\/github.com\/foex-open-source\/fos-date-picker-eraser.git"
+    }
+   ,"oracle":{
+        "versions":[
+            "12.1.0.1"
+           ,"12.2.0.1"
+           ,"18.0.0.0"
+           ,"19.0.0.0"
+           ,"21.0.0.0"
+        ]
+       ,"apex":{
+            "versions":[
+                "19.2.0"
+               ,"20.1.0"
+               ,"20.2.0"
+               ,"21.1.0"
+               ,"21.2.0"
+            ]
+           ,"plugin":{
+                "internalName":"COM.FOS.DATE_PICKER_ERASER"
+               ,"type":"dynamic action"
+               ,"demo":"https:\/\/fos.world\/ords\/f?p=10000:1160"
+               ,"previewImage":"https:\/\/fos.world\/ords\/fos_master_ws\/fos-image\/COM.FOS.DATE_PICKER_ERASER"
+            }
+        }
+    }
+}
+
+
