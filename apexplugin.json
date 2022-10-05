@@ -1,6 +1,6 @@
 {
     "name":"FOS - Date Picker Eraser"
-   ,"version":"21.2.0"
+   ,"version":"22.1.0"
    ,"description":"Clear\/erase the \"Date Picker\" value. It\u0027s useful for users who want to keep their hand on the mouse\/touchpad, saving that little bit of time and improving their productivity.\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\n\u003Cp\u003E\r\nAll FOS plug-ins are released under MIT License, which essentially means it is free for everyone to use, no matter if commercial or private use. \r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003EThe \u003Cstrong\u003EFOS - Date Picker Eraser\u003C\/strong\u003E can do one thing, and one thing only: it can clear\/erase the \"Date Picker\" value. It\u0027s useful for users who want to keep their hand on the mouse\/touchpad, saving that little bit of time and improving their productivity.\u003C\/p\u003E"
    ,"keywords":[
         "date-picker"

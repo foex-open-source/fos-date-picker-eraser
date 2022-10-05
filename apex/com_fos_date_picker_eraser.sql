@@ -160,7 +160,7 @@ wwv_flow_api.create_plugin(
 ,p_subscribe_plugin_settings=>true
 ,p_help_text=>'<p>The <strong>FOS - Date Picker Eraser</strong> can do one thing, and one thing only: it can clear/erase the "Date Picker" value. It''s useful for users who want to keep their hand on the mouse/touchpad, saving that little bit of time and improving t'
 ||'heir productivity.</p>'
-,p_version_identifier=>'21.2.0'
+,p_version_identifier=>'22.1.0'
 ,p_about_url=>'https://fos.world'
 ,p_plugin_comment=>wwv_flow_string.join(wwv_flow_t_varchar2(
 '// Settings for the FOS browser extension',
